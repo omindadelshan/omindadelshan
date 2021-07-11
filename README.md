@@ -9,7 +9,6 @@ omindadelshan/omindadelshan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-#Deploy Heroku
-(Heroku deploy button)
+
 
 My telegram user name - @omintras 
